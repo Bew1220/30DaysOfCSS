@@ -13,26 +13,26 @@ h1 {
 
 @keyframes bgchange {
   0% {
-    background-color: #FBD6D7;
+    background-color: #101E53;
   }
 
   20% {
-    background-color: #F2637C;
+    background-color: #6395f2;
   }
 
   40% {
-    background-color: #F8B5B6;
+    background-color: #b5f8f5;
   }
 
   60% {
-    background-color: #D84D80;
+    background-color: #4dd877;
   }
 
   80% {
-    background-color: #F490A0;
+    background-color: #b0f490;
   }
 
   100% {
-    background-color: #F9C1C2;
+    background-color: #f3f9c1;
   }
 }
