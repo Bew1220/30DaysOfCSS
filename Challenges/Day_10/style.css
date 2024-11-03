@@ -31,7 +31,7 @@ body {
 .container div label span {
   position: relative;
   display: inline-block;
-  background:#141212;
+  background:#2E7051;
   padding: 15px 30px;
   color: rgb(63, 57, 57);
   text-shadow: 0 2px 4px rgba(0,0,0,.5);
@@ -59,7 +59,7 @@ body {
 }
 
 .container div:nth-child(2) label #checkbox:checked ~ span{
-  background: #E3402A;
+  background: #ffffff;
   color:white;
   box-shadow: 0 2px 20px #E3402A;
 }
